@@ -1,13 +1,4 @@
-# 🏦 RobbersGang_deveremma — SQL Database Design & Querying Project
-
-**Author:** Deveremma  
-**Student ID:** 300602434  
-**Course:** SWEN435  
-**Database Name:** `RobbersGang_deveremma`  
-**Platform:** PostgreSQL  
-**Type:** Academic Capstone Project  
-
----
+# 🏦 SQL Database Design & Querying Project
 
 ## 📘 Project Overview
 
@@ -148,7 +139,4 @@ GROUP BY b.security;
 
 ## 👨‍🎓 Author
 
-**Deveremma**  
-Student ID: `300602434`  
-Course: SWEN435 — Database Systems  
-Capstone Project — RobbersGang_deveremma
+**Emmanuel De Vera**  
